@@ -7,4 +7,4 @@ Usage:
 python3 main.py <path_to_book>
 ```
 
-Books can be downloaded from [Project Gutenberg](https://www.gutenberg.org). Save the "Plain Text UTF-8" version a *.txt* file.
+Books can be downloaded from [Project Gutenberg](https://www.gutenberg.org). Save the "Plain Text UTF-8" version as a *.txt* file.
